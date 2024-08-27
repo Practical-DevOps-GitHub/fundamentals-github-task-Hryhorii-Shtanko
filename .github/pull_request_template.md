@@ -1,23 +1,19 @@
-
 ## Describe your changes
 
-1. Created the repository from the provided link.
-2. Added users `softservedata` and `MentorChITA` to this repository.
-3. Created a branch `develop` and set it as the default branch.
-4. Generated a Personal Access Token (PAT) for GitHub Actions, then add it:
+
+1. Added users `softservedata` and `MentorChITA` to this repository.
+2. Created a branch `develop` and set it as the default branch.
+ 3. Generated a Personal Access Token (PAT) for GitHub Actions, then add it:
  - To config, for shortcut.
- - In github, section `Secrets and variables`, under the option `Actions`, with the key name PAT and the value of the created PAT.
-   
-5. Gen new key Added key `github-key.pub` from root.ssh to `Deploy keys` with DEPLOY_KEY name.
-6. Add template (pull_request_template.md) to .github directory for creating issue in required format.
-7. Protected the `main` and `develop` branches with the necessary rules.
- - put 
+ - In GitHub, section `Secrets and variables`, under the option `Actions`, with the name PAT and the value of the created PAT.
 
-8. Add template (pull_request_template.md) to .github directory for creating issue in format:
-
-
+4. Generated a new key and added the key `github-key.pub` to `Deploy keys` with the name DEPLOY_KEY.
+5. Added a template (pull_request_template.md) to the `.github` directory for creating report in the required format.
+6. Protected the `main` and `develop` branches with the necessary rules.
+7. Created project for this repository. Added issues.
+8. Created discord server and added notification when PR was created.
 ## Issue ticket number and link
-
+- https://github.com/Practical-DevOps-GitHub/fundamentals-github-task-Hryhorii-Shtanko/issues/1
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
 - [ ] If it is a core feature, I have added thorough tests
