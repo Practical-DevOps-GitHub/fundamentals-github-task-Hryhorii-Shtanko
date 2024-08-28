@@ -14,6 +14,7 @@
 8. Created discord server and added notification when PR was created.
 ## Issue ticket number and link
 - https://github.com/Practical-DevOps-GitHub/fundamentals-github-task-Hryhorii-Shtanko/issues/1
+- https://github.com/Practical-DevOps-GitHub/fundamentals-github-task-Hryhorii-Shtanko/issues/3
 ## Checklist before requesting a review
 - [ ] I have performed a self-review of my code
 - [ ] If it is a core feature, I have added thorough tests
